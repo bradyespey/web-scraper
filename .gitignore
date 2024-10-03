@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 
 # Ignore credentials and environment files
-credentials.json
-.env
 venv/
+.env
+credentials.json
 
 # Ignore OS-specific and IDE/editor files
 .DS_Store
