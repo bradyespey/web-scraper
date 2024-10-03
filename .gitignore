@@ -5,6 +5,7 @@ __pycache__/
 # Ignore credentials and environment files
 credentials.json
 .env
+venv/
 
 # Ignore OS-specific and IDE/editor files
 .DS_Store

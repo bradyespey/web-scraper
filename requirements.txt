@@ -1,6 +1,23 @@
-beautifulsoup4==4.10.0
-loguru==0.5.3
-requests==2.26.0
-selenium==4.1.0
-google-auth-oauthlib==0.4.6
-google-api-python-client==2.32.0
+# Required for web scraping with Selenium
+selenium
+
+# Required for parsing HTML
+beautifulsoup4
+
+# Required for logging
+loguru
+
+# Required for sending emails via Gmail API
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Required for managing environment variables
+python-dotenv
+
+# General dependencies
+requests
+
+# Required to avoid the pkg_resources error
+setuptools
