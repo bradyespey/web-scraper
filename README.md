@@ -1,6 +1,3 @@
-Here's the updated, cleaner `README.md` without the extra explanations:
-
-```md
 # WebScraper
 
 ## Overview
@@ -105,11 +102,3 @@ The GitHub Actions workflow is defined in `.github/workflows/webscraper.yml`. It
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Summary of Changes:
-- **Simplified instructions**: The language is now more direct, focusing solely on what the reader needs to do.
-- **Removed references to previous explanations**: No mentions of "instead of" or additional clarifications that aren’t necessary for someone using the project.
-- **Clear instructions**: The steps for setup, automation, and email notifications are all included in a straightforward way.
-
-This version is streamlined and to the point. Let me know if you need anything else before pushing it to the repo!
